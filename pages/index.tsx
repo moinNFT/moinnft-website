@@ -52,11 +52,13 @@ export default function Example() {
               </div>
               <div className="mt-6 sm:max-w-5xl">
                 <h1 className="text-4xl font-extrabold text-center text-gray-900 tracking-tight sm:text-5xl">
-                  Kunst- &amp; NFT-Projekte aus Norddeutschland
+                  NFT-Projekte aus Norddeutschland
                 </h1>
                 <p className="mt-6 text-xl text-gray-500 text-center">
                   Wir bringen das NFT-Ökosystem in Norddeutschland auf ein neues
-                  Niveau. Komm in unsere Discord-Community, diskutiere mit uns
+                  Niveau.
+                  <br />
+                  Komm&apos; in unsere Discord-Community, diskutiere mit uns
                   über neue NFT-Projekte aus Norddeutschland, lerne andere
                   NFT-Enthusiasten kennen und verpasse keine News zu moinNFT.
                 </p>
