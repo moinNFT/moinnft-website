@@ -9,10 +9,10 @@
 .logo {
   width: 15rem;
   height: 15rem;
-  background-image: url("/img/moinnft-icon.png");
+  background-image: url("/img/moinnft-icon.jpg");
   background-size: cover;
   transform: rotateY(45deg);
-  animation: rotateAnimation 8s ease-in-out infinite;
+  animation: rotateAnimation 10s ease-in-out infinite;
 }
 
 @keyframes rotateAnimation {

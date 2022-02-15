@@ -1,4 +1,3 @@
-import { ChevronRightIcon, StarIcon } from "@heroicons/react/solid";
 import Footer from "../components/layout/Footer";
 import styles from "../styles/Home.module.css";
 
